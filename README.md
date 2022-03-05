@@ -13,5 +13,5 @@ A small project to explore android room concepts
 ## By
 
     ```
-    Ben El Arabi Soulaymane with Love
+    Ben El Arabi Soulaymane 
     ```
